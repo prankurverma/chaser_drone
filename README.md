@@ -1,4 +1,4 @@
-# chaser_drone
+# drone localization and navigation
 
 A robot and a drone are given. The robot is the Runner representing an intruding animal and the drone is the Catcher. To avoid more damage to the crops the Catcher is a drone and not another ground based robot. The Runner negotiates the arena, representing a farm, following a random path given. The Catcher flies above the arena and 'catches' the Runner by landing on it. Both the Catcher and Runner are localized by markers and an overhead camera is used to track them. A PC/Laptop running the Robot Operating System (ROS) is used to track the robots and issue motion commands for the Catcher. 
 
